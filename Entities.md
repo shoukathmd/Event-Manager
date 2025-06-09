@@ -71,4 +71,4 @@ This document outlines the data model for the **Mini Event Manager** assignment,
 3. Events can have multiple Tags, and Tags can apply to multiple Events.
 4. RSVP status is tracked per (Event, Attendee) in `EventAttendee`.
 5. All timestamps use UTC ISO 8601 format.
-6. UUIDs are used for all primary keys for scalability and global uniqueness.
+6. UUIDs are used for all primary keys for scalability, security and global uniqueness.
