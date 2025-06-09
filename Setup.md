@@ -11,7 +11,7 @@ This document provides step-by-step instructions to get the Mini Event Manager r
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_REPO_URL> event-manager
+git clone https://github.com/shoukathmd/Event-Manager.git event-manager
 cd event-manager
 ```
 
